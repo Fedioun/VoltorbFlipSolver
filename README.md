@@ -49,5 +49,3 @@ python main.py
 Les premiers coups sont conservateurs afin de ne pas vous faire perdre de terrain, puis il cherche à gagner.
 
 Un algorithme de backtracking simple.
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
